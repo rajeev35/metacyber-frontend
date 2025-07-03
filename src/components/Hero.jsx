@@ -99,7 +99,7 @@ export default function Hero() {
 
         <div className="hero-main">
           <div className="hero-text">
-            <h1 className="hero-title">Metacyber – Your Digital Cyber Café</h1>
+            <h1 className="hero-title">Metacyber – Your Digital Cyber Café.</h1>
             <p className="hero-subtitle">
               Aadhar, PAN, Passport, Tickets, Resumes &amp; more — all online, fast &amp; secure.
             </p>
